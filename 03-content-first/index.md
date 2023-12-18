@@ -1,5 +1,4 @@
-- ### [Matěj Kníže](https://github.com/Matej-Knize/english-for-designers/blob/main/03-content-first/index.md)
-
+- ### [Matěj Kníže](https://matej-knize.github.io/english-for-designers/03-content-first/)
     - [About me](about.md)
     - [My work](work.md)
     - [Writing](writing.md)
