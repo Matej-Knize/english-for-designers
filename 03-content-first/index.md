@@ -9,4 +9,6 @@
 
 ## ***Hello there, I'm Matěj, starting 3D artist with obsession in games, films and humor.***
 
-![smiling_me](https://github.com/Matej-Knize/english-for-designers/assets/154207948/d6c84632-5561-47cb-b4be-d53a4870b6f3)
+![handsome boy on the gouch]＜img src="(https://github.com/Matej-Knize/english-for-designers/assets/154207948/18529043-1517-422c-9834-fe772ad7f50f" width="50%" height="50%"＞
+
+
