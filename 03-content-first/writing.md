@@ -4,6 +4,6 @@
 
 # Writting
 
-Sometimes, I also like to expres ma thoughts through whiting.
+Sometimes, I also like to expres my thoughts through whiting.
 
 Here you can read my short essay on theme of [tomorow](oneword.md) 
