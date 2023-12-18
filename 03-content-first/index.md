@@ -9,7 +9,7 @@
 
 ### ***Hello there, I'm Matěj, starting 3D artist with obsession in games, films and humor.***
 
-![me in a hoodie smilingly sitting on sofa](smiling_me.JPG)＜width="500" height="300"＞
+<img src="images/smiling_me.JPG" >
 
 
-
+gg
