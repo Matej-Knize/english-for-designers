@@ -9,7 +9,7 @@
 
 ### ***Hello there, I'm Matěj, starting 3D artist with obsession in games, films and humor.***
 
-<img src="images/smiling_me.JPG" >
+<img src="images/smiling_me.JPG" width="300" height="400" >
 
 
 gg
