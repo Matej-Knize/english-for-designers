@@ -8,5 +8,5 @@
 
 
 
-Hello there, I'm Matěj, starting 3D artist with obsession in games, films and humor.
+***Hello there, I'm Matěj, starting 3D artist with obsession in games, films and humor.***
 
