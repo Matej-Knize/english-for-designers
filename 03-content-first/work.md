@@ -11,13 +11,17 @@ I have started this journey with 2D and now I'm most into the 3D stuff where I h
 There are samples of my 2D animations from school work.
 
 
-
   <img src="images/ball.gif" width="450" height="600" alt="the walk cycle of baseball ball with red cap" >  <img src="images/bat.gif" width="400" height="600" alt="the walk cycle of baseball bat" > 
   <img src="images/bouncing_ball.gif" width="855" height="480" alt="infinite loop of bouncing ballsy face in the western town" >
 
 
 
+****
 
+And these are some of my 3D works.
+
+
+<img src="images/tree.gif" width="450" height="600" alt="the turntable cycle of tree in glass container" >
 
 
 
