@@ -13,6 +13,7 @@ There are samples of my 2D animations from school work.
 
 
   <img src="images/ball.gif" width="450" height="600" alt="the walk cycle of baseball ball with red cap" >  <img src="images/bat.gif" width="400" height="600" alt="the walk cycle of baseball bat" > 
+  <img src="images/fire.gif" width="855" height="480" alt="the walk cycle of baseball ball with red cap" >
 
 
 
