@@ -18,4 +18,5 @@ Now I am on my own spiritual journey to discover what tomorrow truly means. It s
 In conclusion, I would just like to add that whatever tomorrow brings, good or bad, it's definitely worth waiting for because if a person gives up today, they might miss out on the best that life could offer, and it might just come right ***tomorrow...***
 
 
-abstract silhouette of man with fear of tomorow
+
+<img src="images/fearful_man.png" width="500" height="500" alt="abstract silhouette of man with fear of tomorow" >
