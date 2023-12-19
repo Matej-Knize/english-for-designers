@@ -10,6 +10,5 @@ I have started this journey with 2D and now I'm most into the 3D stuff where I h
 
 There are samples of my 2D animations from school work.
 
-<img src="images/ball.gif" alt="the walk czcle of baseball ball with red cap" >
 
-
+ <img src="images/ball.gif" alt="the walk czcle of baseball ball with red cap" >  <img src="images/bat.gif" alt="the walk czcle of baseball bat" > 
