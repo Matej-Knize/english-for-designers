@@ -12,7 +12,7 @@ There are samples of my 2D animations from school work.
 
 | Cat pics               | Dog pics               |
 | ---------------------- | ---------------------- |
-|  <img src="images/ball.gif" width="600" height="800" alt="the walk cycle of baseball ball with red cap" > | <img src="images/bat.gif" width="530" height="800" alt="the walk cycle of baseball bat" > |
+|  <img src="images/ball.gif" width="450" height="600" alt="the walk cycle of baseball ball with red cap" > | <img src="images/bat.gif" width="400" height="600" alt="the walk cycle of baseball bat" > |
 
 
 
