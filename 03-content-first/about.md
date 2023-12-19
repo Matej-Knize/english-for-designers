@@ -8,10 +8,8 @@ My journey started on high school, where I became interested in creating of new 
 
 ***And that's where animation comes in my way.***
 
-</br>
-</br>
-</br>
-**********
+<br>
 
+****
 
 I'll be glad if you contact me on *matejknize2@gmail.com*
