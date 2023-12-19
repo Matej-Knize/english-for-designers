@@ -8,7 +8,7 @@ I have started this journey with 2D and now I'm most into the 3D stuff where I h
 
 ****
 
-There are samples of my 2D animations from school work.
+***There are samples of my 2D animations from school work.***
 
 
   <img src="images/ball.gif" width="450" height="600" alt="the walk cycle of baseball ball with red cap" >  <img src="images/bat.gif" width="400" height="600" alt="the walk cycle of baseball bat" > 
@@ -18,7 +18,7 @@ There are samples of my 2D animations from school work.
 
 ****
 
-And these are some of my 3D works.
+***And these are some of my 3D works.***
 
 
    <img src="images/tree.gif" width="855" height="480" alt="the turntable cycle of tree in glass container" ><img src="images/skateboard.gif" width="855" height="480" alt="the cycle of flipping skateboard" ><img src="images/mummy.jpg" width="855" height="480" alt="The mummy on its way to capture the lollypop" >
@@ -28,7 +28,7 @@ And these are some of my 3D works.
 
 ****
 
-And these are some of my 3D works.
+oiaehoifwoeiiobgow
 
 
  
