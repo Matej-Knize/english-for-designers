@@ -21,9 +21,14 @@ There are samples of my 2D animations from school work.
 And these are some of my 3D works.
 
 
-<img src="images/tree.gif" width="855" height="480" alt="the turntable cycle of tree in glass container" >
-<img src="images/skateboard_flip.gif" width="855" height="480" alt="the cycle of flipping skateboard" >
-<img src="images/mummy.jpg" width="855" height="480" alt="The mummy on its way to capture the lollypop" >
+   <img src="images/tree.gif" width="855" height="480" alt="the turntable cycle of tree in glass container" ><img src="images/skateboard.gif" width="855" height="480" alt="the cycle of flipping skateboard" ><img src="images/mummy.jpg" width="855" height="480" alt="The mummy on its way to capture the lollypop" >
+
+
+
+
+****
+
+And these are some of my 3D works.
 
 
  
