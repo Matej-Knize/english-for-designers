@@ -28,7 +28,7 @@ I have started this journey with 2D and now I'm most into the 3D stuff where I h
 
 ****
 
-In these days, I've been returning to architectural themes in my work, and finally, I'm slowly finding where I'd like to settle in my artistic career. Now I think, it would be nice to be a part of game dev. studio and creating some 3D assets.
+In these days, I've been returning to architectural themes in my work, and finally, I'm slowly finding where I'd like to settle in my artistic career. Now I think, it would be nice to be a part of the game dev. studio and creating some 3D assets.
 
 ***And there are fragments from my latest work.***
 
