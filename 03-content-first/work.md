@@ -32,6 +32,6 @@ In these days, I've been returning to architectural themes in my work, and final
 
 And there are fragments from my latest work.
 
-<img src="images/bouncing_ball.gif" width="855" height="480" alt="infinite loop of bouncing ballsy face in the western town" >
+<img src="images/archviz.jpg" width="855" height="480" alt="architectural vizualization" ><img src="images/bench.jpg" width="550" height="550" alt="3D render of modern bench" > <img src="images/bin.jpg" width="300" height="550" alt="3D render of modern trash bin" ><img src="images/farmhouse.jpg" width="855" height="480" alt="3D render of farmhouse" ><img src="images/house.jpg" width="855" height="480" alt="3D render of house" >
 
  
