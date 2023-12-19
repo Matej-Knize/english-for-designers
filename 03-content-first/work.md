@@ -12,4 +12,4 @@ There are samples of my 2D animations from school work.
 
 <img src="images/ball.gif" alt="the walk czcle of baseball ball with red cap" >
 
-hh
+
