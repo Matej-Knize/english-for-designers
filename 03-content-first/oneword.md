@@ -16,3 +16,6 @@ From a certain moment, I can't precisely say when, I started looking at tomorrow
 Now I am on my own spiritual journey to discover what tomorrow truly means. It still scares me. But now, I can see it even as something positive that could bring solutions to my problems and not only creating the new ones. And, of course, I haven't forgotten to use it as an excuses. In today's bussy world, it's pleasant to taking a break for myself, even if it means more work later.
 
 In conclusion, I would just like to add that whatever tomorrow brings, good or bad, it's definitely worth waiting for because if a person gives up today, they might miss out on the best that life could offer, and it might just come right ***tomorrow...***
+
+
+abstract silhouette of man with fear of tomorow
