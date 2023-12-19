@@ -28,9 +28,10 @@ I have started this journey with 2D and now I'm most into the 3D stuff where I h
 
 ****
 
-oiaehoifwoeiiobgow
+In these days, I've been returning to architectural themes in my work, and finally, I'm slowly finding where I'd like to settle in my artistic career. Now I think, i would be nice to be a part of game dev. studio and creating some 3D stuff for them.
 
+And there are fragments from my latest work.
 
- 
+<img src="images/bouncing_ball.gif" width="855" height="480" alt="infinite loop of bouncing ballsy face in the western town" >
 
  
