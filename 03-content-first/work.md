@@ -2,7 +2,11 @@
    
 # My work
 
+I love to make animations in all ways. <br>
+I have started this journey with 2D and now I'm most into the 3D stuff where I have less limitations and can create literally anything I can imagine.<br>
+
+</br>
+****
+hasfh
 
 
-
- <img src="images/fearful_man.png" width="300" height="300" alt="abstract silhouette of man with fear of tomorow" >  <img src="images/smiling_me.JPG" width="300" height="400" alt="me sitting smilingly in a hoodie set" > 
