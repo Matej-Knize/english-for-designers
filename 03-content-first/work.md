@@ -6,4 +6,4 @@
 
 | Cat pics               | Dog pics               |
 | ---------------------- | ---------------------- |
-| ![cat](images/fearful_man.png) | ![dog](images/smiling_me.JPG) |
+| ![cat](images/fearful_man.png) | <img src="images/smiling_me.JPG" width="300" height="400" alt="me sitting smilingly in a hoodie set" > |
