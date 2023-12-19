@@ -30,7 +30,7 @@ I have started this journey with 2D and now I'm most into the 3D stuff where I h
 
 In these days, I've been returning to architectural themes in my work, and finally, I'm slowly finding where I'd like to settle in my artistic career. Now I think, i would be nice to be a part of game dev. studio and creating some 3D stuff for them.
 
-And there are fragments from my latest work.
+***And there are fragments from my latest work.***
 
 <img src="images/archviz.jpg" width="855" height="480" alt="architectural vizualization" ><img src="images/bench.jpg" width="550" height="550" alt="3D render of modern bench" > <img src="images/bin.jpg" width="300" height="550" alt="3D render of modern trash bin" ><img src="images/farmhouse.jpg" width="855" height="480" alt="3D render of farmhouse" ><img src="images/house.jpg" width="855" height="480" alt="3D render of house" >
 
