@@ -4,4 +4,8 @@
 
 [storytelling](https://youtu.be/eiJ5EQH73tc)
 
+[storytelling_script](storytelling_transcription.md)
+
 [thesis](https://youtu.be/CyFEUZikagc)
+
+[thesis_script](thesis_transcription.md)
