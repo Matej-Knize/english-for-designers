@@ -1,11 +1,11 @@
-[voice_tone_style](voice.md)
+[voice tone style](voice.md)
 
-[year_in_review](year_in_review.md)
+[year in review](year in review.md)
 
 [storytelling](https://youtu.be/eiJ5EQH73tc)
 
-[storytelling_script](storytelling_transcription.md)
+[storytelling script](storytelling transcription.md)
 
 [thesis](https://youtu.be/CyFEUZikagc)
 
-[thesis_script](thesis_transcription.md)
+[thesis script](thesis transcription.md)
