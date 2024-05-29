@@ -6,6 +6,6 @@
 
 [storytelling script](storytelling_transcription.md)
 
-[thesis](https://youtu.be/CyFEUZikagc)
+[thesis](https://youtu.be/Oq7UJKTDjBk)
 
 [thesis script](thesistranscription.md)
