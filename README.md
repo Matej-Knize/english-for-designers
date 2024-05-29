@@ -1,3 +1,3 @@
 # english-for-designers
 
-[6thsemester](6thsemester/index.md)
+[6th semester](6thsemester/index.md)
