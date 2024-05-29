@@ -8,4 +8,4 @@
 
 [thesis](https://youtu.be/Oq7UJKTDjBk)
 
-[thesis script](thesistranscription.md)
+[thesis script](thesis_transcription.md)
